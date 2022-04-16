@@ -1,0 +1,43 @@
+.navlink{
+    color: rgb(139, 139, 139);
+    text-decoration: none;
+    margin-right: 65px;
+  }
+  .navlinkactive{
+    color: lightblue;
+    text-decoration: none;
+    margin-right: 65px;
+  }
+  .navlink:hover{
+    color: khaki;
+  }
+  .navlinkactive:hover{
+    color: khaki;   
+  }
+
+.twitter {
+margin-left: 15px;
+margin-right: 15px;
+
+} 
+
+footer {
+background-color: navajowhite;
+width: 100%;
+/* margin-top: 50px; */
+
+}
+
+footer div a,
+footer p {
+color: gray;
+text-decoration: none;
+}
+
+
+.appointment {
+
+color: brown;
+border: 3px solid brown;
+width: 200px;
+}
